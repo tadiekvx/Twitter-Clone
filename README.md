@@ -1,10 +1,6 @@
 # Twitter-clone
 
-[![CI](https://github.com/wdesgardin/twitter-clone/actions/workflows/ci.yml/badge.svg)](https://github.com/wdesgardin/twitter-clone/actions/workflows/ci.yml)
 
-Twitter clone based on Jason Taylor's [clean architecture template](https://github.com/jasontaylordev/CleanArchitecture).  
-  
-A demo is available at [https://twitter-clone-wdesgardin.herokuapp.com/](https://twitter-clone-wdesgardin.herokuapp.com/) (it is hosted on a heroku free subscription, the loading of the first page can take several tens of seconds)  
 
 ![screenshots](./screenshots.gif)
 
